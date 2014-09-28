@@ -1,0 +1,7 @@
+[submodule "src/visualization"]
+	path = src/visualization
+	url = https://github.com/ros-visualization/visualization.git
+	branch = visualization-1.8
+[submodule "src/rx"]
+	path = src/rx
+	url = https://github.com/ros-visualization/rx.git

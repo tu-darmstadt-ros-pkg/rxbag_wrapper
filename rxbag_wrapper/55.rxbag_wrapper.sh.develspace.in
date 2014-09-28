@@ -1,0 +1,2 @@
+#!/bin/sh
+export ROS_PACKAGE_PATH=@rxbag_plugins_PACKAGE_PATH@:@rxbag_PACKAGE_PATH@:@wxpython_swig_interface_PACKAGE_PATH@:$ROS_PACKAGE_PATH
